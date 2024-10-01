@@ -1,6 +1,6 @@
 import React from "react"
 import ReactDOM from "react-dom/client"
-// import Main from "../components/main.jsx"
+import Main from "../components/main.jsx"
 
 
 console.log('index.jsx loaded');
@@ -14,4 +14,4 @@ function Root() {
     )
 }
 
-ReactDOM.createRoot(document.getElementById("root")).render(<Root />);
+ReactDOM.createRoot(document.getElementById("root")).render(<Main />);
