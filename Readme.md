@@ -9,7 +9,7 @@ I followed [this scrimba](https://v2.scrimba.com/learn-react-c0e)
 
 --
 
-[![demo image](./images/readmeimg.png)](https://v2.scrimba.com/learn-react-c0e)
+[![demo image](./images/readmeimg.png)](https://roberrini-firstreact.netlify.app/)
 
 
 
