@@ -30,6 +30,9 @@ H1 {
 .Main {
   background-color: #282D35;
   padding: 48px 24px;
+  background-image: url(./images/reactjs-large.svg);
+  background-repeat: no-repeat;
+  background-position: center right;
 }
 
 H2 {

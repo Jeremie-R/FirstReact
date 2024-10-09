@@ -1,6 +1,7 @@
 import React from "react"
 import ReactDOM from "react-dom/client"
 import '../style.css'
+import ReactBg from "../images/reactjs-large.svg"
 
 
 export default function Main() {
